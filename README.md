@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xerly
 - 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning Angular 11
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me : citmrulez@gmail.com
 
 <!---
